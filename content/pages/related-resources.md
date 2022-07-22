@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: The links provided in this section are online references for additional
+  resources in the study of memory using an fMRI. These range from professional societies
+  that maintain links to areas that any reader can explore in this field. Many of
+  the linked sites provide resources for further study, as well as downloadable resources
+  that can be used for classroom teaching.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: b25826d3-f331-e0b2-2782-41a839256584
 ---

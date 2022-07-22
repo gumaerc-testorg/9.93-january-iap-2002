@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The readings provided in this section are the foundation of this course.
+  Where available, journal article abstracts from PubMed (an online database providing
+  access to citations from biomedical literature) are included.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0525244a-cf31-ab94-7019-b5fdc253900f
 ---
